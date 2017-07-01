@@ -1,0 +1,1 @@
+var x = mapForEach(arr1, function())
